@@ -1,0 +1,12 @@
+Time： 2019/06/19
+       
+       找一个你想上传文件的地方，然后打开Git的命令管理器
+       首先登陆你的用户名和路径地址
+       git config --global user.name "Liangzhixing"
+       git config --global user.email "zx22311@126.com"
+     
+open ->Git bash Here
+   1） add  xxx（你想添加的文件）   //必须在home  库里边打开命令
+   2） commit -m “注释”
+   3） push
+      
